@@ -1,0 +1,27 @@
+========================================================== COMANDOS ==========================================================
+
+° pip install virtualenv: Comando utilizado para crear entornos virtuales con Python.
+
+° virtualenv [nombre_entorno_vitual]: Comando utilizado para crear un entorno virtual.
+
+° C:\ruta\al\entorno\virtual\Scripts\activate.bat: Comando utilizado para activar el entorno virtual de Python.
+
+° pip install fastapi: Comando utilizado para instalar la ultima versión de FastAPI.
+
+° pip install uvicorn: Comando utilizado para instalar la ultima versión de uvicorn.
+
+° pip install jinja2: Comando utilizado para instalar la ultima versión de jinja2.
+
+° pip install python-multipart: Comando utilizado para instalar la ultima versión de python-multipart.
+
+° pip install python-dotenv: Comando utilizado para instalar la ultima versión de python-dotenv.
+
+° pip install sqlalchemy: Comando utilizado para instalar la ultima versión de sqlalchemy.
+
+° pip install pymysql: Comando utilizado para instalar la ultima versión de pymysql.
+
+° pip install cryptography: Comando utilizado para instalar la ultima versión de cryptography.
+
+° uvicorn app:app --reload: Comando utilizado para correr el un archivo de Python mediante uvicorn.
+
+    NOTA: URL para ingresar a la documentación de las API: http://localhost:8000/docs#/

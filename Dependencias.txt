@@ -1,0 +1,25 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° Visual Studio Code.
+
+° HTML.
+
+° Python.
+
+° XAMPP.
+
+° MySQL.
+
+° Fast API.
+
+° Virtualenv.
+
+° SQLAlchemy.
+
+° Postman.
+
+° Swagger.
